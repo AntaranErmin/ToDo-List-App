@@ -1,14 +1,7 @@
 :root {
 	--silver: #e4d8c4;
-	--green: #008000;
-	--darkpurple: #6b39ad;
-	--cyan: #00d9ffea;
 	--darkpink: #470849;
 	--purple: #473a64;
-	--red: #ff0000;
-	--gold: rgb(224, 173, 5);
-	--blue: rgba(28, 71, 211, 0.87);
-    --brown: #857568;
     --lightbrown: #796839;
     --black: #000000;
 }
